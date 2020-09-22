@@ -24,8 +24,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 MIN_HIGHRES_SIZE = 6000 #px, minimum size of width or height for image to be considered high resolution
 PARALLEL_DOWNLOADS = 6
-OUT_PATH = 'E:\\daki\\'
-OUT_PATH_LOWRES = 'E:\\daki\\lowres\\'
+OUT_PATH = r'E:\daki\'
+OUT_PATH_LOWRES = r'E:\daki\lowres\'
 
 #global
 totalCount = 1

@@ -1,6 +1,9 @@
 # yande.re.grabber
 
-https://github.com/voidtemp/yande.re.grabber
+![Alt text](/yande.re%20logo.png?raw=true "yande.re")
+
+https://github.com/voidtemp/yande.re.grabber  
+https://www.reddit.com/r/yande_re_grabber
 
 Images grabber for yande.re.
 
